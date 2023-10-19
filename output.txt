@@ -1,0 +1,28 @@
+Tempos mais cedo :
+Evento 1: 0
+Evento 2: 7
+Evento 3: 5
+Evento 4: 16
+Evento 5: 16
+Evento 6: 27
+Evento 7: 20
+Evento 8: 30
+Evento 9: 36
+Evento 10: 34
+Evento 11: 43
+
+Tempos mais tarde :
+Evento 1: 0
+Evento 2: 7
+Evento 3: 12
+Evento 4: 16
+Evento 5: 18
+Evento 6: 27
+Evento 7: 22
+Evento 8: 30
+Evento 9: 36
+Evento 10: 36
+Evento 11: 43
+
+Caminho Crítico:
+[1, 2, 4, 6, 8, 9, 11]
