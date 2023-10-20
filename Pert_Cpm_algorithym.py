@@ -1,6 +1,6 @@
 # Daniel Luiz Araújo Marques - Algoritmo PERT e CPM em Python
 
-# Importações para construção e plotagem do grafo
+# Importações para construção do grafo
 import networkx as nx  # Importa a biblioteca NetworkX que foi utilizada para a montagem do grafo 
 import funcoes  # Importa o módulo com as funções que implementei para o problema
 
